@@ -1,6 +1,6 @@
 # mycode
 Learning to track my code
-# mycode (Project Title)
+# mycode (Learning to Version Control Projects with GIT)
 
 Learing the basics of Python to integrate them within my current position in the Verizon Wireless NRB.
 
